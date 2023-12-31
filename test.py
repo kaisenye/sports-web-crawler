@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-print('hello world')
 # URL of the page containing Steph Curry's stats
 url = 'https://www.espn.com/nba/boxscore/_/gameId/401585067'
 
